@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Shahid+Asghar!;Full-Stack+Web+Developer;Laravel+%7C+Vue.js+%7C+Nuxt+3+%7C+React;Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7931A&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Shahid+Asghar!;Full-Stack+Web+Developer;Laravel+%7C+Vue.js+%7C+Nuxt+3+%7C+React;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -18,11 +20,11 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 [Kissanghar Store](https://github.com/Shahidasghar90) — Agricultural E-Commerce Platform
+### 🛒 Kissanghar Store — Agricultural E-Commerce Platform
 > A full-stack e-commerce solution connecting farmers to buyers across Pakistan.
 - **Tech:** Nuxt 3 · Laravel API · Vue 3 · Vuetify 3 · MySQL
 - **Features:** Product catalog, cart, order management, WhatsApp integration
-- 🔗 [Live Demo](#) | 📁 [Repository](#)
+- 📁 [Repository](https://github.com/Shahidasghar90)
 
 ---
 
@@ -30,7 +32,6 @@
 > Custom ERP solution for a forklift repair and equipment company.
 - **Tech:** PHP · Laravel · MySQL · jQuery · Bootstrap
 - **Features:** Inventory management, job orders, invoicing, reporting
-- 📁 [Repository](#)
 
 ---
 
@@ -38,15 +39,13 @@
 > Platform for managing agricultural data, crop advisory, and commodity tracking.
 - **Tech:** Laravel · Vue.js · MySQL · REST API
 - **Features:** Farmer profiles, crop tracking, market prices, advisory system
-- 📁 [Repository](#)
 
 ---
 
 ### 🌐 WordPress Custom Projects
 > Multiple client websites with custom themes and plugins.
-- **Tech:** WordPress · PHP · WooCommerce · Elementor · MySQL
+- **Tech:** WordPress · PHP · WooCommerce · MySQL
 - **Features:** SEO optimized, responsive design, custom plugin development
-- 📁 [Repository](#)
 
 ---
 
@@ -84,16 +83,13 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -101,45 +97,43 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shahidasghar90&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahidasghar90&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahidasghar90&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shahidasghar90&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidasghar90&theme=radical&hide_border=false&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidasghar90&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shahidasghar90&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shahidasghar90&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ### ✍️ Dev Quote of the Day
 
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Shahidasghar90&icon=0&color=6" alt="Profile Views" />
+  </a>
+</p>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Shahidasghar90&icon=0&color=6)](https://visitcount.itsvg.in)
-
-*Proudly crafted with ❤️ from Berlin 🇩🇪*
-
-</div>
+<p align="center"><em>Proudly crafted with ❤️ from Berlin 🇩🇪</em></p>
 
 
 
