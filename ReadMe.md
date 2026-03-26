@@ -97,9 +97,11 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Shahidasghar90&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahidasghar90&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidasghar90&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=Shahidasghar90&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
