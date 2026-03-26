@@ -154,6 +154,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahidasghar90&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidasghar90&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Shahidasghar90&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahidasghar90&theme=radical&hide_border=false&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shahidasghar90&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
