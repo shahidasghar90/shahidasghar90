@@ -30,7 +30,7 @@
 
 ### 🏗️ Hedemann Stapler ERP System
 > Custom ERP solution for a forklift repair and equipment company.
-- **Tech:** PHP · Laravel · MySQL · jQuery · Bootstrap
+- **Tech:** PHP  · MySQL · Javascript · jQuery · Bootstrap
 - **Features:** Inventory management, job orders, invoicing, reporting
 
 ---
@@ -48,6 +48,12 @@
 - **Features:** SEO optimized, responsive design, custom plugin development
 
 ---
+
+### 🇩🇪 Dinolingua — Multi-Language Flashcard App
+> An interactive web application to help users learn multiple languages through flashcards, deployed on Vercel.
+- **Tech:** Nuxt 3 · Laravel API · MySQL · Vuetify 3
+- **Features:** Multi-language flashcards, vocabulary learning, grammar exercises, TELC B1 exam prep, progress tracking
+- 🔗 [Live Demo](https://dinolingua.vercel.app) · 📁 [Repository](https://github.com/Shahidasghar90)
 
 ## 🌐 Socials
 
