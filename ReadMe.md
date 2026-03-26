@@ -114,7 +114,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shahidasghar90&theme=radical&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahidasghar90&theme=radical&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
