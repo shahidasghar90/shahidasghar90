@@ -28,7 +28,7 @@
 
 ---
 
-### 🏗️ Hedemann Stapler ERP System
+### 🏗️  Stapler ERP System
 > Custom ERP solution for a forklift repair and equipment company.
 - **Tech:** PHP  · MySQL · Javascript · jQuery · Bootstrap
 - **Features:** Inventory management, job orders, invoicing, reporting
